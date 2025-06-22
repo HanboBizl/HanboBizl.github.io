@@ -275,7 +275,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multimodal heterogeneous remote sensing data.
   - Achieved **SOTA performance** on **23 international benchmarks** across classification, detection, segmentation, tracking, change detection, and depth estimation.
   - The sole specialized remote sensing foundation model of the **2030 New Generation Artificial Intelligence National Key R&D Program flagship project** (科技创新2030重大专项“新一代人工智能”唯一专业遥感基础模型)
-  - Reported in **CCTV News coverage** and selected as one of the **annual significant academic advances in remote sensing imagery** at VALSE 2025.
+  - Reported in **CCTV News coverage** and selected as one of the **annual significant academic advances in remote sensing imagery at VALSE 2025**.
 
   </div>
 </div>
