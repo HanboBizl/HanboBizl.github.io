@@ -263,7 +263,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 # Internships
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/WXG.jpg' alt="论文示意图" width="60%">
+    <img src='images/WXG.jpg' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -276,6 +276,22 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
 </div>
 
+# Projects
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/ringmo3.0.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **RingMo 3.0: Multi-modal Remote Sensing Foundation Model with 10-Billion-Parameters**
+  - Collaboration with Academician Wen Gao's Team at Pengcheng Laboratory
+  - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multimodal heterogeneous remote sensing data.
+  - Achieved SOTA performance on 23 international benchmark across classification, detection, segmentation, tracking, change detection, and depth estimation.
+  - The sole specialized remote sensing foundation model of the 2030 New Generation Artificial Intelligence National Key R&D Program flagship project (科技创新2030重大专项“新一代人工智能”唯一专业遥感基础模型)
+
+  </div>
+</div>
 
 # Educations
 - *2021.09 - Present*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences, Beijing, China
