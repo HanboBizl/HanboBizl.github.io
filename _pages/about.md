@@ -16,17 +16,16 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Biography <a href="https://scholar.google.com/citations?user=V3XULuMAAAAJ" class="btn btn-primary btn-sm" target="_blank"><i class="ai ai-google-scholar"></i>[Google Scholar]</a>
+# Biography [[Google Scholar]](https://scholar.google.com/citations?user=V3XULuMAAAAJ)
 
 Hanbo Bi is a 4th-year PhD candidate at the 
-[**School of Electronic, Electrical and Communication Engineering**](https://eece.ucas.ac.cn/index.php/zh-cn/),
-[**University of Chinese Academy of Sciences (UCAS)**](https://www.ucas.ac.cn/) &
-[**Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS)**](http://www.aircas.ac.cn/),
+[School of Electronic, Electrical and Communication Engineering](https://eece.ucas.ac.cn/index.php/zh-cn/),
+[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) &
+[Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS)](http://www.aircas.ac.cn/),
 supervised by Prof. Hongqi Wang and 
-[**Prof. Xian Sun**](https://people.ucas.ac.cn/~sunxian) 
-(<a href="https://nsfc.gov.cn" target="_blank">NSFC Distinguished Young Scholar</a>). He has published multiple first-author papers in top international journals, including IEEE TPAMI, IJCV, and IEEE TGRS, and serves as a reviewer for prestigious publications such as IJCV, IEEE TIP, and IEEE TCSVT.
+[Prof. Xian Sun](https://people.ucas.ac.cn/~sunxian) (NSFC Distinguished Young Scholar). He has published multiple first-author papers in top international journals, including IEEE TPAMI, IJCV, and IEEE TGRS, and serves as a reviewer for prestigious publications such as IJCV, IEEE TIP, and IEEE TCSVT.
 
-His research focuses on computer vision, encompassing vision foundation models, self-supervised learning, few-shot learning, and remote sensing image interpretation. Notably, his leading work on RingMoE, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to multimodal vision-language models.
+His research focuses on computer vision, encompassing **vision foundation models**, **self-supervised learning**, **few-shot learning**, and **remote sensing image interpretation**. Notably, his leading work on RingMoE, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to **multimodal vision-language models**.
 
 
 # News
