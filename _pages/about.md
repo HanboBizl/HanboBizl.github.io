@@ -31,8 +31,10 @@ His research focuses on computer vision, encompassing **vision foundation models
 - *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
 - *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​**arXiv**.
 - *2025.03*: One paper is accepted by **ISPRS**, Q1, Top, IF 12.2.
+- *2024.12*: **National Scholarship** for Doctoral Students.
 - *2024.11*: One paper about **Vision Foundation Models** has been submitted to ​**arXiv**.
 - *2024.10*: One paper is accepted by **IJCV**, CCF-A, Top, IF 11.6.
+- *2024.10*: **National Key Laboratory Scientific Research Innovation Fund Project**, Leader.
 - *2024.09*: One paper about **Vision Foundation Models** has been submitted to **​arXiv**.
 - *2024.09*: One paper is accepted by **IEEE TPAMI**, CCF-A, Top, IF 23.6.
 - *2024.09*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
