@@ -24,7 +24,7 @@ and [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/),
 supervised by Prof. Hongqi Wang and 
 [Prof. Xian Sun](https://people.ucas.ac.cn/~sunxian) (NSFC Distinguished Young Scholar). He has published multiple first-author papers in top international journals, including IEEE TPAMI, IJCV, and IEEE TGRS, and serves as a reviewer for prestigious publications such as IJCV, IEEE TIP, and IEEE TCSVT.
 
-His research focuses on computer vision, encompassing **vision foundation models**, **self-supervised learning**, **few-shot learning**, and **remote sensing image interpretation**. Notably, his leading work on **RingMoE**, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to **multimodal vision-language models**.
+His research focuses on computer vision, encompassing **vision foundation models**, **self-supervised learning**, **few-shot learning**, and **remote sensing image interpretation**. Notably, his leading work on **RingMoE**, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to **multi-modal vision-language models**.
 
 
 # 🔥 News
@@ -272,7 +272,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   **RingMo 3.0: Multi-modal Remote Sensing Foundation Model with 10-Billion-Parameters** [[**Project Link**]](https://arxiv.org/abs/2504.03166).
   - *2024.03 - 2024.12*, Student Leader
   - Collaboration with Academician Wen Gao's Team at Pengcheng Laboratory
-  - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multimodal heterogeneous remote sensing data
+  - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multi-modal heterogeneous remote sensing data
   - Achieved **SOTA performance** on **23 international benchmarks** across classification, detection, segmentation, tracking, change detection, and depth estimation
   - The sole specialized remote sensing foundation model of the **2030 New Generation Artificial Intelligence National Key R&D Program flagship project** (科技创新2030重大专项“新一代人工智能”唯一专业遥感基础模型)
   - Reported in **CCTV News coverage** and selected as one of the **annual significant academic advances in remote sensing imagery at VALSE 2025**
