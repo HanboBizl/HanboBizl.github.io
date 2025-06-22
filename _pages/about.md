@@ -25,12 +25,24 @@ Hanbo Bi is a 4th-year PhD candidate at the
 supervised by Prof. Hongqi Wang and 
 [Prof. Xian Sun](https://people.ucas.ac.cn/~sunxian) (NSFC Distinguished Young Scholar). He has published multiple first-author papers in top international journals, including IEEE TPAMI, IJCV, and IEEE TGRS, and serves as a reviewer for prestigious publications such as IJCV, IEEE TIP, and IEEE TCSVT.
 
-His research focuses on computer vision, encompassing **vision foundation models**, **self-supervised learning**, **few-shot learning**, and **remote sensing image interpretation**. Notably, his leading work on RingMoE, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to **multimodal vision-language models**.
+His research focuses on computer vision, encompassing **vision foundation models**, **self-supervised learning**, **few-shot learning**, and **remote sensing image interpretation**. Notably, his leading work on **RingMoE**, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to **multimodal vision-language models**.
 
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
+- *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​arXiv.
+- *2025.03*: One paper is accepted by **ISPRS**, Q1, Top, IF 12.2.
+- *2024.11*: One papers about **Vision Foundation Models** has been submitted to ​arXiv.
+- *2024.10*: One paper is accepted by **IJCV**, CCF-A, Top, IF 11.6.
+- *2024.09*: One papers about **Vision Foundation Models** has been submitted to ​arXiv.
+- *2024.09*: One paper is accepted by **IEEE TPAMI**, CCF-A, Top, IF 23.6.
+- *2024.09*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
+- *2024.08*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
+- *2024.05*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
+- *2024.04*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
+- *2023.10*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
+- *2023.05*: One paper is accepted by **National Science Review (NSR)**, Top, IF 17.1.
+
 
 # Publications 
 
