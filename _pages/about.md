@@ -295,7 +295,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 </div>
 
 
-# ✍️ Reviewer-Services
+# ✍️ Reviewer Services
 - IEEE Transactions on Image Processing (IEEE TIP)
 - International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Multimedia (IEEE TMM)
