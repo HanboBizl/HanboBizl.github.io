@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanbo Bi"
-description              : "4th-year PhD candidate in UCAS, research interests include large vision models, self-supervised learning, vision-language models, few-shot learning, remote sensing image interpretation."
+description              : "4th-year PhD candidate, research interests include large vision models, vision-language models, few-shot learning, remote sensing image interpretation."
 repository               : "HanboBizl/HanboBizl.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanbo Bi"
   avatar           : "images/hanbo.JPG"
-  bio              : "University of Chinese Academy of Sciences, UCAS"
+  bio              : "University of Chinese Academy of Sciences (UCAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
