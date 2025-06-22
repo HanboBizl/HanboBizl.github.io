@@ -263,13 +263,14 @@ His research focuses on computer vision, encompassing **vision foundation models
 # Internships
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/WXG.jpg' alt="论文示意图" width="100%">
+    <img src='images/WXG.jpg' alt="论文示意图" width="60%">
   </div>
   <div class='paper-box-text' markdown="1">
   
   **Tencent WeiXin Group (WXG)** 
 
   Technology Architecture Department
+
   **Internship**: *2025.03 - Present*
 
   </div>
