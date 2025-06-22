@@ -260,21 +260,6 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
 </div>
 
-# Internships
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/WXG.jpg' alt="论文示意图" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **Tencent WeiXin Group (WXG)** 
-
-  Technology Architecture Department
-
-  **Internship**: *2025.03 - Present*
-
-  </div>
-</div>
 
 # Projects
 
@@ -284,14 +269,25 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **RingMo 3.0: Multi-modal Remote Sensing Foundation Model with 10-Billion-Parameters**
+  **RingMo 3.0: Multi-modal Remote Sensing Foundation Model with 10-Billion-Parameters** [Project Link](https://arxiv.org/abs/2504.03166).
+  - *2024.03 - 2024.12*, Student Leader
   - Collaboration with Academician Wen Gao's Team at Pengcheng Laboratory
   - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multimodal heterogeneous remote sensing data.
   - Achieved SOTA performance on 23 international benchmark across classification, detection, segmentation, tracking, change detection, and depth estimation.
   - The sole specialized remote sensing foundation model of the 2030 New Generation Artificial Intelligence National Key R&D Program flagship project (科技创新2030重大专项“新一代人工智能”唯一专业遥感基础模型)
+  - Reported in CCTV News coverage and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025.
 
   </div>
 </div>
+
+**RingMo 2.0: Multi-modal Remote Sensing Foundation Model with 1-Billion-Parameters** [Project Link](https://gitee.com/mindspore/ringmo-framework).
+- *2023.03 - 2023.08*, Student Leader
+- Constructed a 1-billion-parameter multi-modal remote sensing foundation model via self-supervised pre-training, leveraging 16 million optical/SAR remote sensing images.
+- Successfully deployed in industrial scenarios (including Industrial and Commercial Bank of China (ICBC) and aerospace research institutes) and obtained application certificates from partner organizations.
+- Successfully adapted the model to Pytorch/MindSpore framework.
+
+# Internships
+- *2025.03 - Present*, **Tencent WeiXin Group (WXG)**, Technology Architecture Department, Beijing, China
 
 # Educations
 - *2021.09 - Present*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences, Beijing, China
