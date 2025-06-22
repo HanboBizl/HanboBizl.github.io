@@ -113,14 +113,13 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <img src='images/TIP.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
   **A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning** [[**Paper Link**]](https://arxiv.org/abs/2504.11999)
 
-  Mengyu Wang, **Hanbo Bi\***, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
+  Mengyu Wang\*, **Hanbo Bi\***, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
   
   *arXiv* ***(Co-author, under review)*** 
 
