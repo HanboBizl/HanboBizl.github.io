@@ -16,17 +16,24 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Biography <a href="https://scholar.google.com/citations?user=V3XULuMAAAAJ" class="btn btn-primary btn-sm" target="_blank"><i class="ai ai-google-scholar"></i>[Google Scholar]</a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hanbo Bi is a 4th-year PhD candidate at the 
+[**School of Electronic, Electrical and Communication Engineering**](https://eece.ucas.ac.cn/index.php/zh-cn/),
+[**University of Chinese Academy of Sciences (UCAS)**](https://www.ucas.ac.cn/) &
+[**Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS)**](http://www.aircas.ac.cn/),
+supervised by Prof. Hongqi Wang and 
+[**Prof. Xian Sun**](https://people.ucas.ac.cn/~sunxian) 
+(<a href="https://nsfc.gov.cn" target="_blank">NSFC Distinguished Young Scholar</a>). He has published multiple first-author papers in top international journals, including IEEE TPAMI, IJCV, and IEEE TGRS, and serves as a reviewer for prestigious publications such as IJCV, IEEE TIP, and IEEE TCSVT.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+His research focuses on computer vision, encompassing vision foundation models, self-supervised learning, few-shot learning, and remote sensing image interpretation. Notably, his leading work on RingMoE, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to multimodal vision-language models.
 
 
-# 🔥 News
+# News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -42,17 +49,17 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+# Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+# Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
