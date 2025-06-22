@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Biography [[Google Scholar]](https://scholar.google.com/citations?user=V3XULuMAAAAJ)
+# 👋 Biography [[Google Scholar]](https://scholar.google.com/citations?user=V3XULuMAAAAJ)
 
 Hanbo Bi is a 4th-year PhD candidate at the 
 [Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS)](http://www.aircas.ac.cn/) 
@@ -27,7 +27,7 @@ supervised by Prof. Hongqi Wang and
 His research focuses on computer vision, encompassing **vision foundation models**, **self-supervised learning**, **few-shot learning**, and **remote sensing image interpretation**. Notably, his leading work on **RingMoE**, a 10-billion-parameter remote sensing vision foundation model developed at AIRCAS, was reported by CCTV and selected as one of the annual significant academic advances in remote sensing imagery at VALSE 2025. Currently, he is shifting his research focus to **multimodal vision-language models**.
 
 
-# News
+# 🔥 News
 - *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
 - *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​**arXiv**.
 - *2025.03*: One paper is accepted by **ISPRS**, Q1, Top, IF 12.2.
@@ -46,7 +46,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 - *2023.05*: One paper is accepted by **National Science Review (NSR)**, Top, IF 17.1.
 
 
-# Publications 
+# 📝 Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -261,7 +261,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 </div>
 
 
-# Projects
+# 🚀 Projects
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -280,20 +280,37 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
 </div>
 
-**RingMo 2.0: Multi-modal Remote Sensing Foundation Model with 1-Billion-Parameters** [Project Link](https://gitee.com/mindspore/ringmo-framework).
-- *2023.03 - 2023.08*, Student Leader
-- Constructed a 1-billion-parameter multi-modal remote sensing foundation model via self-supervised pre-training, leveraging 16 million optical/SAR remote sensing images.
-- Successfully deployed in industrial scenarios (including Industrial and Commercial Bank of China (ICBC) and aerospace research institutes) and obtained application certificates from partner organizations.
-- Successfully adapted the model to Pytorch/MindSpore framework.
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/ringmo2.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **RingMo 2.0: Multi-modal Remote Sensing Foundation Model with 1-Billion-Parameters** [Project Link](https://gitee.com/mindspore/ringmo-framework).
+  - *2023.03 - 2023.08*, Student Leader
+  - Constructed a 1-billion-parameter multi-modal remote sensing foundation model via self-supervised pre-training, leveraging 16 million optical/SAR remote sensing images.
+  - Successfully deployed in industrial scenarios (including Industrial and Commercial Bank of China (ICBC) and aerospace research institutes) and obtained application certificates from partner organizations.
+  - Successfully adapted the model to Pytorch/MindSpore framework.
+  </div>
+</div>
 
-# Internships
+
+# ✍️ Reviewer Services
+- IEEE Transactions on Image Processing (IEEE TIP).
+- International Journal of Computer Vision (IJCV).
+- IEEE Transactions on Multimedia (IEEE TMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT).
+- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS). 
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS).
+
+# 💻 Internships
 - *2025.03 - Present*, **Tencent WeiXin Group (WXG)**, Technology Architecture Department, Beijing, China
 
-# Educations
+# 📖 Educations
 - *2021.09 - Present*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences, Beijing, China
 - *2017.09 - 2021.06*, **Bachelor of Engineering**, School of Electrical and Information Engineering, Hunan University, Changsha, China
 
-# Honors and Awards
+# 🎖 Honors and Awards
 - *2024.12* National Scholarship for Doctoral Students (0.3%)
 - *2024.10* National Key Laboratory Scientific Research Innovation Fund Project (Leader)
 - *2023.06* Outstanding Party Member of the University of Chinese Academy of Sciences
