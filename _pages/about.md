@@ -54,13 +54,205 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
+  [**Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation**]
+
+  **Hanbo Bi**, Yingchao Feng, Wenhui Diao, Peijin Wang, Yongqiang Mao, Kun Fu, Hongqi Wang, Xian Sun
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/106812536)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing**]
+
+  **Hanbo Bi**, Yingchao Feng, Yongqiang Mao, Jianning Pei, Wenhui Diao, Hongqi Wang, Xian Sun
+  
+  *International Journal of Computer Vision* ***(IJCV 2024, CCF-A, Top, IF=11.6)*** [**Paper Link**](https://link.springer.com/article/10.1007/s11263-024-02252-y)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TGRS 2023</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**Not just learning from others but relying on yourself: A new perspective on few-shot segmentation in remote sensing**]
+
+  **Hanbo Bi**, Yingchao Feng, Zhiyuan Yan, Yongqiang Mao, Wenhui Diao, Hongqi Wang, Xian Sun
+  
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2023, CCF-B, Q1, Top, IF=8.6)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10288551)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
   [**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**]
 
   **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yongqiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
   
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** 
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** [**Paper Link**](https://arxiv.org/abs/2504.03166)
 
-  [**Paper Link**](https://arxiv.org/abs/2504.03166)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning**]
+
+  Mengyu Wang, *Hanbo Bi*, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** [**Paper Link**](https://arxiv.org/abs/2504.11999)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model**]
+
+  Huiyang Hu, Peijin Wang, **Hanbo Bi**, Boyuan Tong, Zhaozhi Wang, Wenhui Diao, Hao Chang, Yingchao Feng, Ziqi Zhang, Yaowei Wang, Qixiang Ye, Kun Fu, Xian Sun
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** [**Paper Link**](https://arxiv.org/abs/2411.17984)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**Twin deformable point convolutions for airborne laser scanning point cloud classification**]
+
+  Yong-Qiang Mao, **Hanbo Bi**, Xuexue Li, Kaiqiang Chen, Zhirui Wang, Xian Sun, Kun Fu
+  
+  *ISPRS Journal of Photogrammetry and Remote Sensing* ***(ISPRS 2025, Q1, Top, IF=12.2)*** [**Paper Link**](https://www.sciencedirect.com/science/article/abs/pii/S092427162500036X)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**SDL-MVS: View Space and Depth Deformable Learning Paradigm for Multi-View Stereo Reconstruction in Remote Sensing**]
+
+  Yong-Qiang Mao, **Hanbo Bi**, Liangyu Xu, Kaiqiang Chen, Zhirui Wang, Xian Sun, Kun Fu
+  
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2024, CCF-B, Q1, Top, IF=8.6)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10684788)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**Attention-based contrastive learning for few-shot remote sensing image classification**]
+
+  Yulong Xu, **Hanbo Bi**, Hongfeng Yu, Wanxuan Lu, Peifeng Li, Xinming Li, Xian Sun
+  
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2024, CCF-B, Q1, Top, IF=8.6)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10493055)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**Injecting linguistic into visual backbone: Query-aware multimodal fusion network for remote sensing visual grounding**]
+
+  Chongyang Li, Wenkai Zhang, **Hanbo Bi**, Jihao Li, Shuoke Li, Haichen Yu, Xian Sun, Hongqi Wang
+  
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2024, CCF-B, Q1, Top, IF=8.6)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10648751)
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**Efficient Side-Tuning for Remote Sensing: A Low-Memory Fine-Tuning Framework**]
+
+  Haichen Yu, Wenxin Yin, **Hanbo Bi**, Chongyang Li, Yingchao Feng, Wenhui Diao, Xian Sun
+  
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* ***(IEEE JSTAR 2025, Top, IF=5.3)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10974700)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**FRORS: An Effective Fine-Grained Retrieval Framework for Optical Remote Sensing Images**]
+
+  Yong-Qiang Mao, Zhizhuo Jiang, Yu Liu, Yiming Zhang, Kehan Qi, **Hanbo Bi**, You He
+  
+  *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* ***(IEEE JSTAR 2025, Top, IF=5.3)*** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10904305)
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TPAMI 2024</div>
+    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  [**Automated object recognition in high-resolution optical remote sensing imagery**]
+
+  Yazhou Yao, Tao Chen, **Hanbo Bi**, Xinhao Cai, Gensheng Pei, Guoye Yang, Zhiyuan Yan, Xian Sun, Xing Xu, Hai Zhang
+  
+  *National Science Review* ***(NSR 2023, Top, IF=17.1)*** [**Paper Link**](https://academic.oup.com/nsr/article/10/6/nwad122/7152628?login=false)
 
   </div>
 </div>
