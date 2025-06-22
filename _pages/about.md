@@ -106,7 +106,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
   **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yongqiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
   
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** 
+  *arXiv* ***(One of the annual significant academic advances in remote sensing imagery at VALSE 2025, under review)*** 
 
   </div>
 </div>
@@ -122,7 +122,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
   Mengyu Wang, **Hanbo Bi\***, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
   
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** 
+  *arXiv* ***(Co-author, under review)*** 
 
   </div>
 </div>
@@ -138,7 +138,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
   Huiyang Hu, Peijin Wang, **Hanbo Bi**, Boyuan Tong, Zhaozhi Wang, Wenhui Diao, Hao Chang, Yingchao Feng, Ziqi Zhang, Yaowei Wang, Qixiang Ye, Kun Fu, Xian Sun
   
-  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** 
+  *arXiv* ***(ICCV 2025, Score 655)*** 
 
   </div>
 </div>
