@@ -269,7 +269,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **RingMo 3.0: Multi-modal Remote Sensing Foundation Model with 10-Billion-Parameters** [[**Project Link**]](https://arxiv.org/abs/2504.03166).
+  **RingMo 3.0: Mixture-of-Modality-Experts Vision Foundation Models for Universal Remote Sensing Image Interpretation with 10-Billion-Parameters** [[**Project Link**]](https://arxiv.org/abs/2504.03166).
   - *2024.03 - 2024.12*, Student Leader
   - Collaboration with Academician Wen Gao's Team at Pengcheng Laboratory
   - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multi-modal heterogeneous remote sensing data
@@ -295,13 +295,16 @@ His research focuses on computer vision, encompassing **vision foundation models
 </div>
 
 
-# ✍️ Reviewer Services
+# ✍️ Reviewer-Services
 - IEEE Transactions on Image Processing (IEEE TIP)
 - International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Multimedia (IEEE TMM)
 - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+- Remote Sensing
+- Scientific Reports
+
 
 # 💻 Internships
 - *2025.03 - Present*, **Tencent WeiXin Group (WXG)**, Technology Architecture Department, Beijing, China
