@@ -118,7 +118,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
   Mengyu Wang\*, **Hanbo Bi\***, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
   
-  *arXiv* ***(Co-author, under review)*** 
+  *arXiv* ***(\*: equal contribution, under review)*** 
 
   </div>
 </div>
@@ -260,14 +260,36 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
 </div>
 
-# Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Internships
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/WXG.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Tencent WeiXin Group (WXG)** 
+
+  Technology Architecture Department
+  **Internship**: *2025.03 - Present*
+
+  </div>
+</div>
+
 
 # Educations
-- *2021.09 - Present*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences. 
-- *2017.09 - 2021.06*, **Bachelor of Engineering**, School of Electrical and Information Engineering, Hunan University.
+- *2021.09 - Present*, **Doctor of Engineering**, Institute of Aerospace Information Innovation, Chinese Academy of Sciences, Beijing, China
+- *2017.09 - 2021.06*, **Bachelor of Engineering**, School of Electrical and Information Engineering, Hunan University, Changsha, China
+
+# Honors and Awards
+- *2024.12* National Scholarship for Doctoral Students (0.3%)
+- *2024.10* National Key Laboratory Scientific Research Innovation Fund Project (Leader)
+- *2023.06* Outstanding Party Member of the University of Chinese Academy of Sciences
+- *2022.06* Outstanding Student and Outstanding Communist Youth League Cadre of the University of Chinese Academy of Sciences
+- *2021.06* Outstanding Graduate of Hunan Province and Outstanding Undergraduate Theses at Hunan University
+- *2020.12* National Scholarship for Undergraduate Students (1/94)
+- *2020.05* Huawei Scholarship (1/94)
+- *2019.12* National Scholarship for Undergraduate Students (1/94)
 
 
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
