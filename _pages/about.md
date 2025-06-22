@@ -19,9 +19,8 @@ redirect_from:
 # Biography [[Google Scholar]](https://scholar.google.com/citations?user=V3XULuMAAAAJ)
 
 Hanbo Bi is a 4th-year PhD candidate at the 
-[School of Electronic, Electrical and Communication Engineering](https://eece.ucas.ac.cn/index.php/zh-cn/),
-[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/) &
-[Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS)](http://www.aircas.ac.cn/),
+[Aerospace Information Research Institute, Chinese Academy of Sciences (AIRCAS)](http://www.aircas.ac.cn/) 
+and [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/),
 supervised by Prof. Hongqi Wang and 
 [Prof. Xian Sun](https://people.ucas.ac.cn/~sunxian) (NSFC Distinguished Young Scholar). He has published multiple first-author papers in top international journals, including IEEE TPAMI, IJCV, and IEEE TGRS, and serves as a reviewer for prestigious publications such as IJCV, IEEE TIP, and IEEE TCSVT.
 
@@ -30,11 +29,11 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 # News
 - *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
-- *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​arXiv.
+- *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​**arXiv**.
 - *2025.03*: One paper is accepted by **ISPRS**, Q1, Top, IF 12.2.
-- *2024.11*: One papers about **Vision Foundation Models** has been submitted to ​arXiv.
+- *2024.11*: One paper about **Vision Foundation Models** has been submitted to ​**arXiv**.
 - *2024.10*: One paper is accepted by **IJCV**, CCF-A, Top, IF 11.6.
-- *2024.09*: One papers about **Vision Foundation Models** has been submitted to ​arXiv.
+- *2024.09*: One paper about **Vision Foundation Models** has been submitted to **​arXiv**.
 - *2024.09*: One paper is accepted by **IEEE TPAMI**, CCF-A, Top, IF 23.6.
 - *2024.09*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
 - *2024.08*: One paper is accepted by **IEEE TGRS**, CCF-B, Top, IF 8.6.
