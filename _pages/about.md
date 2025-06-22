@@ -269,7 +269,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **RingMo 3.0: Mixture-of-Modality-Experts Vision Foundation Models for Universal Remote Sensing Image Interpretation with 10-Billion-Parameters** [[**Project Link**]](https://arxiv.org/abs/2504.03166).
+  **RingMo 3.0: Mixture-of-Modality-Experts Vision Foundation Models for Universal Remote Sensing Image Interpretation with 10-Billion-Parameters** [[**Project Link**]](https://arxiv.org/abs/2504.03166)
   - *2024.03 - 2024.12*, Student Leader
   - Collaboration with Academician Wen Gao's Team at Pengcheng Laboratory
   - Construct the world's first 10-billion-parameter unified multi-modal foundation model for remote sensing, leveraging massive multi-modal heterogeneous remote sensing data
@@ -286,7 +286,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **RingMo 2.0: Multi-modal Remote Sensing Foundation Model with 1-Billion-Parameters** [[**Project Link**]](https://gitee.com/mindspore/ringmo-framework).
+  **RingMo 2.0: Multi-modal Remote Sensing Foundation Model with 1-Billion-Parameters** [[**Project Link**]](https://gitee.com/mindspore/ringmo-framework)
   - *2023.03 - 2023.08*, Student Leader
   - Constructed a 1-billion-parameter multi-modal remote sensing foundation model via self-supervised pre-training, leveraging 16 million optical/SAR remote sensing images
   - Successfully **deployed in industrial scenarios** (including Industrial and Commercial Bank of China (ICBC) and aerospace research institutes) and obtained application certificates from partner organizations
