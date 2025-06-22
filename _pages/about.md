@@ -54,7 +54,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/106812536)
+  **Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/106812536)
 
   **Hanbo Bi**, Yingchao Feng, Wenhui Diao, Peijin Wang, Yongqiang Mao, Kun Fu, Hongqi Wang, Xian Sun
   
@@ -70,7 +70,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing** [**Paper Link**](https://link.springer.com/article/10.1007/s11263-024-02252-y)
+  **AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing** [[**Paper Link**]](https://link.springer.com/article/10.1007/s11263-024-02252-y)
 
   **Hanbo Bi**, Yingchao Feng, Yongqiang Mao, Jianning Pei, Wenhui Diao, Hongqi Wang, Xian Sun
   
@@ -86,7 +86,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Not just learning from others but relying on yourself: A new perspective on few-shot segmentation in remote sensing** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10288551)
+  **Not just learning from others but relying on yourself: A new perspective on few-shot segmentation in remote sensing** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10288551)
 
   **Hanbo Bi**, Yingchao Feng, Zhiyuan Yan, Yongqiang Mao, Wenhui Diao, Hongqi Wang, Xian Sun
   
@@ -102,7 +102,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation** [**Paper Link**](https://arxiv.org/abs/2504.03166)
+  **RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation** [[**Paper Link**]](https://arxiv.org/abs/2504.03166)
 
   **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yongqiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
   
@@ -118,9 +118,9 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning** [**Paper Link**](https://arxiv.org/abs/2504.11999)
+  **A Complex-valued SAR Foundation Model Based on Physically Inspired Representation Learning** [[**Paper Link**]](https://arxiv.org/abs/2504.11999)
 
-  Mengyu Wang, *Hanbo Bi*, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
+  Mengyu Wang, **Hanbo Bi\***, Yingchao Feng, Linlin Xin, Shuo Gong, Tianqi Wang, Zhiyuan Yan, Peijin Wang, Wenhui Diao, Xian Sun
   
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** 
 
@@ -134,7 +134,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model** [**Paper Link**](https://arxiv.org/abs/2411.17984)
+  **RS-vHeat: Heat Conduction Guided Efficient Remote Sensing Foundation Model** [[**Paper Link**]](https://arxiv.org/abs/2411.17984)
 
   Huiyang Hu, Peijin Wang, **Hanbo Bi**, Boyuan Tong, Zhaozhi Wang, Wenhui Diao, Hao Chang, Yingchao Feng, Ziqi Zhang, Yaowei Wang, Qixiang Ye, Kun Fu, Xian Sun
   
@@ -150,7 +150,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Twin deformable point convolutions for airborne laser scanning point cloud classification** [**Paper Link**](https://www.sciencedirect.com/science/article/abs/pii/S092427162500036X)
+  **Twin deformable point convolutions for airborne laser scanning point cloud classification** [[**Paper Link**]](https://www.sciencedirect.com/science/article/abs/pii/S092427162500036X)
 
   Yong-Qiang Mao, **Hanbo Bi**, Xuexue Li, Kaiqiang Chen, Zhirui Wang, Xian Sun, Kun Fu
   
@@ -166,7 +166,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **SDL-MVS: View Space and Depth Deformable Learning Paradigm for Multi-View Stereo Reconstruction in Remote Sensing** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10684788)
+  **SDL-MVS: View Space and Depth Deformable Learning Paradigm for Multi-View Stereo Reconstruction in Remote Sensing** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10684788)
 
   Yong-Qiang Mao, **Hanbo Bi**, Liangyu Xu, Kaiqiang Chen, Zhirui Wang, Xian Sun, Kun Fu
   
@@ -182,7 +182,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Attention-based contrastive learning for few-shot remote sensing image classification** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10493055)
+  **Attention-based contrastive learning for few-shot remote sensing image classification** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10493055)
 
   Yulong Xu, **Hanbo Bi**, Hongfeng Yu, Wanxuan Lu, Peifeng Li, Xinming Li, Xian Sun
   
@@ -198,7 +198,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Injecting linguistic into visual backbone: Query-aware multimodal fusion network for remote sensing visual grounding** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10648751)
+  **Injecting linguistic into visual backbone: Query-aware multimodal fusion network for remote sensing visual grounding** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10648751)
 
   Chongyang Li, Wenkai Zhang, **Hanbo Bi**, Jihao Li, Shuoke Li, Haichen Yu, Xian Sun, Hongqi Wang
   
@@ -215,7 +215,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Efficient Side-Tuning for Remote Sensing: A Low-Memory Fine-Tuning Framework** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10974700)
+  **Efficient Side-Tuning for Remote Sensing: A Low-Memory Fine-Tuning Framework** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10974700)
 
   Haichen Yu, Wenxin Yin, **Hanbo Bi**, Chongyang Li, Yingchao Feng, Wenhui Diao, Xian Sun
   
@@ -231,7 +231,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **FRORS: An Effective Fine-Grained Retrieval Framework for Optical Remote Sensing Images** [**Paper Link**](https://ieeexplore.ieee.org/abstract/document/10904305)
+  **FRORS: An Effective Fine-Grained Retrieval Framework for Optical Remote Sensing Images** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10904305)
 
   Yong-Qiang Mao, Zhizhuo Jiang, Yu Liu, Yiming Zhang, Kehan Qi, **Hanbo Bi**, You He
   
@@ -248,7 +248,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **Automated object recognition in high-resolution optical remote sensing imagery** [**Paper Link**](https://academic.oup.com/nsr/article/10/6/nwad122/7152628?login=false)
+  **Automated object recognition in high-resolution optical remote sensing imagery** [[**Paper Link**]](https://academic.oup.com/nsr/article/10/6/nwad122/7152628?login=false)
 
 
   Yazhou Yao, Tao Chen, **Hanbo Bi**, Xinhao Cai, Gensheng Pei, Guoye Yang, Zhiyuan Yan, Xian Sun, Xing Xu, Hai Zhang
