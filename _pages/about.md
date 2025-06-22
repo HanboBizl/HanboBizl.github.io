@@ -50,7 +50,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <img src='images/PAT.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -65,8 +65,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">IJCV 2024</div>
+    <img src='images/AgMTR.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -82,7 +82,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">IEEE TGRS 2023</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <img src='images/DMNet.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -97,8 +97,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">Vision Foundation Model</div>
+    <img src='images/RingMoE.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -113,6 +113,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div class="badge">Vision Foundation Model</div>
     <img src='images/TIP.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -128,8 +129,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">Vision Foundation Model</div>
+    <img src='images/VHeat.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -144,8 +145,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">ISPRS 2025</div>
+    <img src='images/ISPRS.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -160,8 +161,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">IEEE TGRS 2024</div>
+    <img src='images/Twin.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -176,8 +177,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">IEEE TGRS 2024</div>
+    <img src='images/Attn.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -192,8 +193,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">IEEE TGRS 2024</div>
+    <img src='images/ILI.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -209,8 +210,8 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">IEEE JSTAR 2025</div>
+    <img src='images/PETL.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -223,10 +224,11 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
 </div>
 
+
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">IEEE JSTAR 2025</div>
+    <img src='images/Retrieval.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
@@ -239,11 +241,26 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">IEEE TGRS 2024</div>
+    <img src='images/TAFormer.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **Taformer: A unified target-aware transformer for video and motion joint prediction in aerial scenes** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10522786)
+
+  Liangyu Xu, Wanxuan Lu, Hongfeng Yu, Yongqiang Mao, **Hanbo Bi**, Chenglong Liu, Xian Sun, Kun Fu
+  
+  *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2024, CCF-B, Q1, Top, IF=8.6)*** 
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
-    <img src='images/paper_thumbnail.jpg' alt="论文示意图" width="100%">
+    <div class="badge">NSR 2023</div>
+    <img src='images/NSR.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
   
