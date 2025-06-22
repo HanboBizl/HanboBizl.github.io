@@ -31,6 +31,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 - *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
 - *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​**arXiv**.
 - *2025.03*: One paper is accepted by **ISPRS**, Q1, Top, IF 12.2.
+- *2025.02*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
 - *2024.12*: **National Scholarship** for Doctoral Students.
 - *2024.11*: One paper about **Vision Foundation Models** has been submitted to ​**arXiv**.
 - *2024.10*: One paper is accepted by **IJCV**, CCF-A, Top, IF 11.6.
@@ -49,7 +50,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TPAMI 2024</div>
     <img src='images/PAT.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -65,7 +65,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IJCV 2024</div>
     <img src='images/AgMTR.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -81,7 +80,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TGRS 2023</div>
     <img src='images/DMNet.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -97,7 +95,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">Vision Foundation Model</div>
     <img src='images/RingMoE.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -113,7 +110,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">Vision Foundation Model</div>
     <img src='images/TIP.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -129,7 +125,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">Vision Foundation Model</div>
     <img src='images/VHeat.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -145,7 +140,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">ISPRS 2025</div>
     <img src='images/ISPRS.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -161,7 +155,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TGRS 2024</div>
     <img src='images/Twin.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -177,7 +170,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TGRS 2024</div>
     <img src='images/Attn.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -193,7 +185,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TGRS 2024</div>
     <img src='images/ILI.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -210,7 +201,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE JSTAR 2025</div>
     <img src='images/PETL.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -227,7 +217,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE JSTAR 2025</div>
     <img src='images/Retrieval.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -243,7 +232,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">IEEE TGRS 2024</div>
     <img src='images/TAFormer.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -259,7 +247,6 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">NSR 2023</div>
     <img src='images/NSR.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
