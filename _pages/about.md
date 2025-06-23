@@ -323,6 +323,15 @@ His research focuses on computer vision, encompassing **vision foundation models
 - *2020.05* Huawei Scholarship (1/94)
 - *2019.12* National Scholarship for Undergraduate Students (1/94)
 
-
+<div style="text-align: center; margin: 30px 0; padding: 20px; border-top: 1px solid #eee;">
+  <a href="https://clustrmaps.com/site/1c6rd" title="ClustrMaps">
+    <img 
+      src="//www.clustrmaps.com/map_v2.png?d=A6rj7tdSBMdxv2GI6adIAqpa1CwnJDvaHZSWz7oiYXk&cl=ffffff" 
+      alt="访客统计地图" 
+      style="max-width: 100%; height: auto; border: none; display: block; margin: 0 auto;"
+    />
+  </a>
+  <p style="font-size: 0.9rem; color: #666; margin-top: 10px;">访客位置统计 | <a href="https://clustrmaps.com" target="_blank">ClustrMaps</a></p>
+</div>
 
 
