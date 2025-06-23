@@ -331,7 +331,6 @@ His research focuses on computer vision, encompassing **vision foundation models
       style="max-width: 100%; height: auto; border: none; display: block; margin: 0 auto;"
     />
   </a>
-  <p style="font-size: 0.9rem; color: #666; margin-top: 10px;">访客位置统计 | <a href="https://clustrmaps.com" target="_blank">ClustrMaps</a></p>
 </div>
 
 
