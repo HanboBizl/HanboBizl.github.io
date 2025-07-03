@@ -28,6 +28,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 
 # 🔥 News
+- *2025.07*: One papers about **Segment Anything Model** have been submitted to ​**arXiv**.
 - *2025.06*: One paper is accepted by **ICCV** (Score 665), CCF-A.
 - *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
 - *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​**arXiv**.
@@ -57,7 +58,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   
   **Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/106812536)
 
-  **Hanbo Bi**, Yingchao Feng, Wenhui Diao, Peijin Wang, Yongqiang Mao, Kun Fu, Hongqi Wang, Xian Sun
+  **Hanbo Bi**, Yingchao Feng, Wenhui Diao, Peijin Wang, Yong-Qiang Mao, Kun Fu, Hongqi Wang, Xian Sun
   
   *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(IEEE TPAMI 2024, CCF-A, Top, IF=23.6)*** 
 
@@ -72,7 +73,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   
   **AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing** [[**Paper Link**]](https://link.springer.com/article/10.1007/s11263-024-02252-y)
 
-  **Hanbo Bi**, Yingchao Feng, Yongqiang Mao, Jianning Pei, Wenhui Diao, Hongqi Wang, Xian Sun
+  **Hanbo Bi**, Yingchao Feng, Yong-Qiang Mao, Jianning Pei, Wenhui Diao, Hongqi Wang, Xian Sun
   
   *International Journal of Computer Vision* ***(IJCV 2024, CCF-A, Top, IF=11.6)*** 
 
@@ -87,7 +88,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   
   **Not just learning from others but relying on yourself: A new perspective on few-shot segmentation in remote sensing** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10288551)
 
-  **Hanbo Bi**, Yingchao Feng, Zhiyuan Yan, Yongqiang Mao, Wenhui Diao, Hongqi Wang, Xian Sun
+  **Hanbo Bi**, Yingchao Feng, Zhiyuan Yan, Yong-Qiang Mao, Wenhui Diao, Hongqi Wang, Xian Sun
   
   *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2023, CCF-B, Q1, Top, IF=8.6)*** 
 
@@ -102,9 +103,24 @@ His research focuses on computer vision, encompassing **vision foundation models
   
   **RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation** [[**Paper Link**]](https://arxiv.org/abs/2504.03166)
 
-  **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yongqiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
+  **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yong-Qiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
   
   *arXiv* ***(One of the annual significant academic advances in remote sensing imagery at VALSE 2025, under review)*** 
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/SAM.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation** [[**Paper Link**]](https://arxiv.org/abs/2504.03166)
+
+  **Hanbo Bi**, Yulong Xu, Ya Li, Yong-Qiang Mao, Boyuan Tong, Chongyang Li, Chunbo Lang, Wenhui Diao, Hongqi Wang, Yingchao Feng, Xian Sun
+  
+  *arXiv* ***(under review)*** 
 
   </div>
 </div>
@@ -239,7 +255,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   
   **Taformer: A unified target-aware transformer for video and motion joint prediction in aerial scenes** [[**Paper Link**]](https://ieeexplore.ieee.org/abstract/document/10522786)
 
-  Liangyu Xu, Wanxuan Lu, Hongfeng Yu, Yongqiang Mao, **Hanbo Bi**, Chenglong Liu, Xian Sun, Kun Fu
+  Liangyu Xu, Wanxuan Lu, Hongfeng Yu, Yong-Qiang Mao, **Hanbo Bi**, Chenglong Liu, Xian Sun, Kun Fu
   
   *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2024, CCF-B, Q1, Top, IF=8.6)*** 
 
