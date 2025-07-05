@@ -116,7 +116,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   </div>
   <div class='paper-box-text' markdown="1">
   
-  **ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation** [[**Paper Link**]](https://arxiv.org/abs/2504.03166)
+  **ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation** [[**Paper Link**]](https://arxiv.org/abs/2507.02294)
 
   **Hanbo Bi**, Yulong Xu, Ya Li, Yong-Qiang Mao, Boyuan Tong, Chongyang Li, Chunbo Lang, Wenhui Diao, Hongqi Wang, Yingchao Feng, Xian Sun
   
