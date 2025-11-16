@@ -28,8 +28,9 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 
 # 🔥 News
+- *2025.11*: One papers about **Multimodal Language Model for Dialogue Understanding** is accepted by ​**AAAI**, CCF-A.
 - *2025.07*: One papers about **Segment Anything Model** have been submitted to ​**arXiv**.
-- *2025.06*: One paper is accepted by **ICCV** (Score 665), CCF-A.
+- *2025.06*: One paper is accepted by **ICCV Oral**, CCF-A.
 - *2025.04*: One paper is accepted by **IEEE JSTAR**, Top, IF 5.3.
 - *2025.04*: Two papers about **Vision Foundation Models** have been submitted to ​**arXiv**.
 - *2025.03*: One paper is accepted by **ISPRS**, Q1, Top, IF 12.2.
@@ -112,6 +113,20 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <img src='images/f2rvlm.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **F²RVLM: Boosting Fine-grained Fragment Retrieval for Multi-Modal Long-form Dialogue with Vision Language Model** [[**Paper Link**]](https://f2rvlm.github.io/)
+
+  **Hanbo Bi**
+  *AAAI Conference on Artificial Intelligence* ***(AAAI 2026)***  
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <img src='images/SAM.png' alt="论文示意图" width="100%">
   </div>
   <div class='paper-box-text' markdown="1">
@@ -150,7 +165,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
   Huiyang Hu, Peijin Wang, **Hanbo Bi**, Boyuan Tong, Zhaozhi Wang, Wenhui Diao, Hao Chang, Yingchao Feng, Ziqi Zhang, Yaowei Wang, Qixiang Ye, Kun Fu, Xian Sun
   
-  *International Conference on Computer Vision* ***(ICCV 2025, Score 665)*** 
+  *International Conference on Computer Vision* ***(ICCV 2025, Oral)*** 
 
   </div>
 </div>
