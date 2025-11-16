@@ -120,6 +120,7 @@ His research focuses on computer vision, encompassing **vision foundation models
   **F²RVLM: Boosting Fine-grained Fragment Retrieval for Multi-Modal Long-form Dialogue with Vision Language Model** [[**Paper Link**]](https://f2rvlm.github.io/)
 
   **Hanbo Bi**
+  
   *AAAI Conference on Artificial Intelligence* ***(AAAI 2026)***  
 
   </div>
