@@ -28,6 +28,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 
 # 🔥 News
+- *2025.12*: One paper is accepted by **IEEE TPAMI**, CCF-A, Top, IF 23.6.
 - *2025.11*: One papers about **Multimodal Language Model for Dialogue Understanding** is accepted by ​**AAAI**, CCF-A.
 - *2025.07*: One papers about **Segment Anything Model** have been submitted to ​**arXiv**.
 - *2025.06*: One paper is accepted by **ICCV Oral**, CCF-A.
@@ -50,6 +51,35 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 
 # 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/RingMoE.png' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation** [[**Paper Link**]](https://arxiv.org/abs/2504.03166)
+
+  **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yong-Qiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
+  
+  *IEEE Transactions on Pattern Analysis and Machine Intelligence* ***(One of the annual significant academic advances in remote sensing imagery at VALSE 2025, IEEE TPAMI 2025, CCF-A, Top, IF=23.6)*** 
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <img src='images/f2rvlm.jpg' alt="论文示意图" width="100%">
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
+  **F²RVLM: Boosting Fine-grained Fragment Retrieval for Multi-Modal Long-form Dialogue with Vision Language Model** [[**Paper Link**]](https://f2rvlm.github.io/)
+
+  **Hanbo Bi**
+  
+  *AAAI Conference on Artificial Intelligence* ***(AAAI 2026)***  
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -92,36 +122,6 @@ His research focuses on computer vision, encompassing **vision foundation models
   **Hanbo Bi**, Yingchao Feng, Zhiyuan Yan, Yong-Qiang Mao, Wenhui Diao, Hongqi Wang, Xian Sun
   
   *IEEE Transactions on Geoscience and Remote Sensing* ***(IEEE TGRS 2023, CCF-B, Q1, Top, IF=8.6)*** 
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/RingMoE.png' alt="论文示意图" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation** [[**Paper Link**]](https://arxiv.org/abs/2504.03166)
-
-  **Hanbo Bi**, Yingchao Feng, Boyuan Tong, Mengyu Wang, Haichen Yu, Yong-Qiang Mao, Hao Chang, Wenhui Diao, Peijin Wang, Yue Yu, Hanyang Peng, Yehong Zhang, Kun Fu, Xian Sun
-  
-  *arXiv* ***(One of the annual significant academic advances in remote sensing imagery at VALSE 2025, under review)*** 
-
-  </div>
-</div>
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/f2rvlm.jpg' alt="论文示意图" width="100%">
-  </div>
-  <div class='paper-box-text' markdown="1">
-  
-  **F²RVLM: Boosting Fine-grained Fragment Retrieval for Multi-Modal Long-form Dialogue with Vision Language Model** [[**Paper Link**]](https://f2rvlm.github.io/)
-
-  **Hanbo Bi**
-  
-  *AAAI Conference on Artificial Intelligence* ***(AAAI 2026)***  
 
   </div>
 </div>
