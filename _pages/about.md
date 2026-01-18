@@ -28,6 +28,7 @@ His research focuses on computer vision, encompassing **vision foundation models
 
 
 # 🔥 News
+- *2026.01*: One paper is accepted by **IEEE TIP**, CCF-A, Top, IF 13.7.
 - *2025.12*: One paper is accepted by **IEEE TPAMI**, CCF-A, Top, IF 23.6.
 - *2025.11*: One papers about **Multimodal Language Model for Dialogue Understanding** is accepted by ​**AAAI**, CCF-A.
 - *2025.07*: One papers about **Segment Anything Model** have been submitted to ​**arXiv**.
